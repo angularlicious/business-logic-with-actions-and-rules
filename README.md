@@ -2,6 +2,9 @@
 
 A repository to demonstrate business logic implementation using business actions and a rules engine. Create highly testable and consistent business logic using the template-method and composite design patterns.
 
+> A reference application that demonstrates the implementation of the `business actions` and the `rules engine` framework is
+> in the following GitHub repository: [https://github.com/buildmotion/github-search](https://github.com/buildmotion/github-search).
+
 # @angularlicious/actions
 @angularlicious/actions is a framework to build amazing business logic. It is built using Typescript and compliments the [Angular-Rules-Engine](https://www.npmjs.com/package/angular-rules-engine) on [npmjs.com](https://www.npmjs.com/package/angular-rules-engine.
 ) or [GitHub](https://github.com/angularlicious/angular-rules-engine).
